@@ -1,0 +1,38 @@
+.h1{
+	font-size:35px;
+	font-family:sans-serif;
+	margin-left: 10%;
+}
+
+#btn{
+	padding:10px;
+	font-size:15px;
+	font-family:sans-serif;
+	border:3px solid black;
+	color:black;
+	background-color: #fff;
+	cursor:pointer;
+	margin-left: 10%;
+}
+
+#btn1{
+	padding:10px;
+	font-size:15px;
+	font-family:sans-serif;
+	border:3px solid white;
+	color:white;
+	background-color: black;
+	cursor:pointer;
+	margin-left: 10%;
+}
+
+.p1{
+	margin-top:20px;
+	font-size:15px;
+	font-family:sans-serif;
+	color:black;
+	margin-left:10%;
+	margin-right: 10%;
+	line-height: 170%;
+	text-align:justify;
+}
